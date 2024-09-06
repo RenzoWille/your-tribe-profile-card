@@ -87,36 +87,6 @@ body-cont:hover.body{
   transform: perspective(400px) rotateY(180deg);
 }
 
-@media (max-width: 600px) {
-  body {
-    padding: 10px;
-  }
-
-  header {
-    max-width: 100%;
-  }
-
-  header img {
-    width: 80px;
-    height: 80px;
-  }
-
-  header h1 {
-    font-size: 1.2em;
-  }
-
-  header p {
-    font-size: 0.9em;
-  }
-
-  main li {
-    font-size: 1em;
-  }
-
-  main ul {
-    font-size: 0.8em;
-  }
-}
 /*
 article {
   position: relative;
